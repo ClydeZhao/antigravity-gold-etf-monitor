@@ -1,0 +1,7 @@
+{
+  "portfolio_gold_weight": 0.12,
+  "gold_volatility": 0.15,
+  "portfolio_volatility": 0.12,
+  "min_add_cooldown_days": 3,
+  "reports_dir": "reports"
+}
